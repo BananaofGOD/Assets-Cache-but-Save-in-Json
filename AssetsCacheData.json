@@ -1,0 +1,54 @@
+{
+    "tabs": [
+        {
+            "id": 0,
+            "tabName": "Common",
+            "list": [],
+            "selected": {
+                "obj": {
+                    "instanceID": 0
+                },
+                "path": "",
+                "prefabPath": "",
+                "isPrefab": false,
+                "Name": "",
+                "location": 0,
+                "previewTexture": {
+                    "instanceID": 0
+                },
+                "displayName": "",
+                "parents": []
+            },
+            "editor": {
+                "instanceID": 0
+            },
+            "iconSize": 20.0,
+            "gridView": false
+        },
+        {
+            "id": 1,
+            "tabName": "1",
+            "list": [],
+            "selected": {
+                "obj": {
+                    "instanceID": 0
+                },
+                "path": "",
+                "prefabPath": "",
+                "isPrefab": false,
+                "Name": "",
+                "location": 0,
+                "previewTexture": {
+                    "instanceID": 0
+                },
+                "displayName": "",
+                "parents": []
+            },
+            "editor": {
+                "instanceID": 0
+            },
+            "iconSize": 20.0,
+            "gridView": false
+        }
+    ]
+}
